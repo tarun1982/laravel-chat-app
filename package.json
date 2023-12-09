@@ -21,7 +21,7 @@
     "dependencies": {
         "boxicons": "^2.1.4",
         "laravel-echo": "^1.14.0",
-        "picmo": "^5.7.0",
+        "picmo": "^5.8.5",
         "pusher-js": "^7.4.0"
     }
 }
